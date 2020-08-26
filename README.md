@@ -12,14 +12,14 @@ Run group startup
 
     sampler.start_group
 
-    >What is the size of the group?
-    >
-    >_Enter group size_
-    >
-    >What are the names of the group members?
-    >
-    >_Enter the names of each group member individually_
+>What is the size of the group?
+>
+>_Enter group size_
+>
+>What are the names of the group members?
+>
+>_Enter the names of each group member individually_
 
     sampler.lead
 
-    >_outputs a random name from the group_
+>_outputs a random name from the group_
